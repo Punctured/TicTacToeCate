@@ -1,5 +1,5 @@
 # TicTacToeCate
-Tic Tac Toe using MVC architecture for two local players. By Jeff Kim with Georgia, Alex, Victor.
+Tic Tac Toe using MVC architecture for two local players. Jeff Kim with Georgia, Alex, Victor.
 
 Current Features : 
 - Update view depending on the player who has pressed the button.
